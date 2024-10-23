@@ -1,3 +1,8 @@
 learning about merge and conflicts
 
+
 this is dev1 new line of code
+this line is added by dev2
+
+solved merge conflict by dev1
+
