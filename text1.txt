@@ -1,1 +1,3 @@
 learning about merge and conflicts
+
+this line is added by dev2
