@@ -1,1 +1,3 @@
 learning about merge and conflicts
+
+this is dev1 new line of code
